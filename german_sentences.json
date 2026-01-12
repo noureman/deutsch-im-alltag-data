@@ -1,306 +1,1762 @@
 [
-  {"id":1,"level":"A1","german":"Ich bin müde.","arabic":"أنا متعب."},
-  {"id":2,"level":"A1","german":"Ich gehe nach Hause.","arabic":"أنا أذهب إلى المنزل."},
-  {"id":3,"level":"A1","german":"Ich trinke Wasser.","arabic":"أنا أشرب الماء."},
-  {"id":4,"level":"A1","german":"Ich habe Hunger.","arabic":"أنا جائع."},
-  {"id":5,"level":"A1","german":"Ich habe Zeit.","arabic":"لدي وقت."},
-  {"id":6,"level":"A1","german":"Ich arbeite heute.","arabic":"أنا أعمل اليوم."},
-  {"id":7,"level":"A1","german":"Ich lerne Deutsch.","arabic":"أنا أتعلم الألمانية."},
-  {"id":8,"level":"A1","german":"Ich komme später.","arabic":"سآتي لاحقًا."},
-  {"id":9,"level":"A1","german":"Ich bleibe hier.","arabic":"أبقى هنا."},
-  {"id":10,"level":"A1","german":"Ich mag Kaffee.","arabic":"أنا أحب القهوة."},
-
-  {"id":11,"level":"A1","german":"Ich esse Brot.","arabic":"أنا آكل الخبز."},
-  {"id":12,"level":"A1","german":"Ich höre Musik.","arabic":"أستمع إلى الموسيقى."},
-  {"id":13,"level":"A1","german":"Ich bin zu Hause.","arabic":"أنا في المنزل."},
-  {"id":14,"level":"A1","german":"Ich gehe jetzt.","arabic":"أنا أذهب الآن."},
-  {"id":15,"level":"A1","german":"Ich schlafe gut.","arabic":"أنام جيدًا."},
-  {"id":16,"level":"A1","german":"Ich bin glücklich.","arabic":"أنا سعيد."},
-  {"id":17,"level":"A1","german":"Ich bin traurig.","arabic":"أنا حزين."},
-  {"id":18,"level":"A1","german":"Ich brauche Hilfe.","arabic":"أحتاج مساعدة."},
-  {"id":19,"level":"A1","german":"Ich verstehe dich.","arabic":"أنا أفهمك."},
-  {"id":20,"level":"A1","german":"Ich warte hier.","arabic":"أنتظر هنا."},
-
-  {"id":21,"level":"A1","german":"Ich komme morgen.","arabic":"سآتي غدًا."},
-  {"id":22,"level":"A1","german":"Ich gehe heute.","arabic":"أذهب اليوم."},
-  {"id":23,"level":"A1","german":"Ich bleibe zu Hause.","arabic":"أبقى في المنزل."},
-  {"id":24,"level":"A1","german":"Ich fühle mich gut.","arabic":"أشعر أنني بخير."},
-  {"id":25,"level":"A1","german":"Ich bin draußen.","arabic":"أنا في الخارج."},
-  {"id":26,"level":"A1","german":"Ich bin drinnen.","arabic":"أنا في الداخل."},
-  {"id":27,"level":"A1","german":"Ich rufe dich an.","arabic":"سأتصل بك."},
-  {"id":28,"level":"A1","german":"Ich schreibe dir.","arabic":"سأكتب لك."},
-  {"id":29,"level":"A1","german":"Ich mache Pause.","arabic":"آخذ استراحة."},
-  {"id":30,"level":"A1","german":"Ich bin fertig.","arabic":"انتهيت."},
-
-{"id":1,"level":"A1","tag":"home","german":"Ich bin zu Hause.","arabic":"أنا في المنزل."},
-{"id":2,"level":"A1","tag":"home","german":"Ich gehe nach Hause.","arabic":"أنا أذهب إلى المنزل."},
-{"id":3,"level":"A1","tag":"home","german":"Ich esse Brot.","arabic":"أنا آكل الخبز."},
-{"id":4,"level":"A1","tag":"home","german":"Ich trinke Wasser.","arabic":"أنا أشرب الماء."},
-{"id":5,"level":"A1","tag":"home","german":"Ich bin müde.","arabic":"أنا متعب."},
-{"id":6,"level":"A1","tag":"home","german":"Ich schlafe gut.","arabic":"أنام جيدًا."},
-{"id":7,"level":"A1","tag":"home","german":"Ich habe Hunger.","arabic":"أنا جائع."},
-{"id":8,"level":"A1","tag":"home","german":"Ich habe Durst.","arabic":"أنا عطشان."},
-{"id":9,"level":"A1","tag":"home","german":"Ich bin allein.","arabic":"أنا وحدي."},
-{"id":10,"level":"A1","tag":"home","german":"Ich bin nicht allein.","arabic":"لست وحدي."},
-
-{"id":11,"level":"A1","tag":"daily","german":"Ich stehe früh auf.","arabic":"أستيقظ مبكرًا."},
-{"id":12,"level":"A1","tag":"daily","german":"Ich gehe jetzt.","arabic":"أنا أذهب الآن."},
-{"id":13,"level":"A1","tag":"daily","german":"Ich komme später.","arabic":"سآتي لاحقًا."},
-{"id":14,"level":"A1","tag":"daily","german":"Ich warte hier.","arabic":"أنتظر هنا."},
-{"id":15,"level":"A1","tag":"daily","german":"Ich bleibe hier.","arabic":"أبقى هنا."},
-{"id":16,"level":"A1","tag":"daily","german":"Ich habe Zeit.","arabic":"لدي وقت."},
-{"id":17,"level":"A1","tag":"daily","german":"Ich habe keine Zeit.","arabic":"ليس لدي وقت."},
-{"id":18,"level":"A1","tag":"daily","german":"Ich bin fertig.","arabic":"انتهيت."},
-{"id":19,"level":"A1","tag":"daily","german":"Ich mache Pause.","arabic":"آخذ استراحة."},
-{"id":20,"level":"A1","tag":"daily","german":"Ich fühle mich gut.","arabic":"أشعر أنني بخير."}
-
-
-{"id":61,"level":"A1","tag":"work","german":"Ich arbeite heute.","arabic":"أنا أعمل اليوم."},
-{"id":62,"level":"A1","tag":"work","german":"Ich gehe zur Arbeit.","arabic":"أذهب إلى العمل."},
-{"id":63,"level":"A1","tag":"work","german":"Ich bin pünktlich.","arabic":"أنا في الموعد."},
-{"id":64,"level":"A1","tag":"work","german":"Ich bin zu spät.","arabic":"أنا متأخر."},
-{"id":65,"level":"A1","tag":"work","german":"Ich brauche Hilfe.","arabic":"أحتاج مساعدة."},
-{"id":66,"level":"A1","tag":"work","german":"Ich verstehe dich.","arabic":"أنا أفهمك."},
-{"id":67,"level":"A1","tag":"work","german":"Ich verstehe das nicht.","arabic":"لا أفهم ذلك."},
-{"id":68,"level":"A1","tag":"work","german":"Ich frage später.","arabic":"سأسأل لاحقًا."},
-{"id":69,"level":"A1","tag":"work","german":"Ich lerne Deutsch.","arabic":"أنا أتعلم الألمانية."},
-{"id":70,"level":"A1","tag":"work","german":"Ich schreibe dir.","arabic":"سأكتب لك."}
-
-
-{"id":121,"level":"A1","tag":"travel","german":"Ich fahre nach Hause.","arabic":"أعود إلى المنزل."},
-{"id":122,"level":"A1","tag":"travel","german":"Ich bin unterwegs.","arabic":"أنا في الطريق."},
-{"id":123,"level":"A1","tag":"travel","german":"Ich komme morgen.","arabic":"سآتي غدًا."},
-{"id":124,"level":"A1","tag":"travel","german":"Ich gehe heute.","arabic":"أذهب اليوم."},
-{"id":125,"level":"A1","tag":"travel","german":"Ich bleibe hier.","arabic":"أبقى هنا."},
-{"id":126,"level":"A1","tag":"travel","german":"Ich bin draußen.","arabic":"أنا في الخارج."},
-{"id":127,"level":"A1","tag":"travel","german":"Ich bin drinnen.","arabic":"أنا في الداخل."},
-{"id":128,"level":"A1","tag":"travel","german":"Ich gehe spazieren.","arabic":"أذهب للمشي."},
-{"id":129,"level":"A1","tag":"travel","german":"Ich kaufe Brot.","arabic":"أشتري خبزًا."},
-{"id":130,"level":"A1","tag":"travel","german":"Ich warte dort.","arabic":"أنتظر هناك."}
-{"id":121,"level":"A1","tag":"travel","german":"Ich fahre nach Hause.","arabic":"أعود إلى المنزل."},
-{"id":122,"level":"A1","tag":"travel","german":"Ich bin unterwegs.","arabic":"أنا في الطريق."},
-{"id":123,"level":"A1","tag":"travel","german":"Ich komme morgen.","arabic":"سآتي غدًا."},
-{"id":124,"level":"A1","tag":"travel","german":"Ich gehe heute.","arabic":"أذهب اليوم."},
-{"id":125,"level":"A1","tag":"travel","german":"Ich bleibe hier.","arabic":"أبقى هنا."},
-{"id":126,"level":"A1","tag":"travel","german":"Ich bin draußen.","arabic":"أنا في الخارج."},
-{"id":127,"level":"A1","tag":"travel","german":"Ich bin drinnen.","arabic":"أنا في الداخل."},
-{"id":128,"level":"A1","tag":"travel","german":"Ich gehe spazieren.","arabic":"أذهب للمشي."},
-{"id":129,"level":"A1","tag":"travel","german":"Ich kaufe Brot.","arabic":"أشتري خبزًا."},
-{"id":130,"level":"A1","tag":"travel","german":"Ich warte dort.","arabic":"أنتظر هناك."}
-
-{"id":301,"level":"A1","tag":"daily","german":"Ich stehe jetzt auf.","arabic":"أستيقظ الآن."},
-{"id":302,"level":"A1","tag":"home","german":"Ich mache das Licht an.","arabic":"أشغّل الضوء."},
-{"id":303,"level":"A1","tag":"home","german":"Ich mache das Licht aus.","arabic":"أطفئ الضوء."},
-{"id":304,"level":"A1","tag":"daily","german":"Ich frühstücke zu Hause.","arabic":"أتناول الفطور في المنزل."},
-{"id":305,"level":"A1","tag":"daily","german":"Ich gehe duschen.","arabic":"أذهب للاستحمام."},
-{"id":306,"level":"A1","tag":"daily","german":"Ich ziehe mich an.","arabic":"أرتدي ملابسي."},
-{"id":307,"level":"A1","tag":"daily","german":"Ich bin bereit.","arabic":"أنا مستعد."},
-{"id":308,"level":"A1","tag":"daily","german":"Ich gehe jetzt raus.","arabic":"أخرج الآن."},
-{"id":309,"level":"A1","tag":"travel","german":"Ich nehme den Bus.","arabic":"أركب الحافلة."},
-{"id":310,"level":"A1","tag":"travel","german":"Ich fahre mit der Bahn.","arabic":"أسافر بالقطار."},
-
-
-
-
-{"id":311,"level":"A1","tag":"daily","german":"Ich komme gut an.","arabic":"أصل بخير."},
-{"id":312,"level":"A1","tag":"daily","german":"Ich bin noch unterwegs.","arabic":"ما زلت في الطريق."},
-{"id":313,"level":"A1","tag":"home","german":"Ich mache Kaffee.","arabic":"أحضر القهوة."},
-{"id":314,"level":"A1","tag":"home","german":"Ich trinke Tee.","arabic":"أشرب الشاي."},
-{"id":315,"level":"A1","tag":"home","german":"Ich esse zu Mittag.","arabic":"أتناول الغداء."},
-{"id":316,"level":"A1","tag":"daily","german":"Ich habe heute frei.","arabic":"أنا في إجازة اليوم."},
-{"id":317,"level":"A1","tag":"daily","german":"Ich bleibe heute hier.","arabic":"سأبقى هنا اليوم."},
-{"id":318,"level":"A1","tag":"daily","german":"Ich gehe heute früh.","arabic":"أذهب مبكرًا اليوم."},
-{"id":319,"level":"A1","tag":"daily","german":"Ich komme spät.","arabic":"سآتي متأخرًا."},
-{"id":320,"level":"A1","tag":"daily","german":"Ich ruhe mich aus.","arabic":"أرتاح."},
-
-{"id":321,"level":"A1","tag":"work","german":"Ich fange an.","arabic":"أبدأ."},
-{"id":322,"level":"A1","tag":"work","german":"Ich höre auf.","arabic":"أنتهي."},
-{"id":323,"level":"A1","tag":"work","german":"Ich arbeite hier.","arabic":"أعمل هنا."},
-{"id":324,"level":"A1","tag":"work","german":"Ich arbeite heute viel.","arabic":"أعمل كثيرًا اليوم."},
-{"id":325,"level":"A1","tag":"work","german":"Ich mache meine Arbeit.","arabic":"أقوم بعملي."},
-{"id":326,"level":"A1","tag":"work","german":"Ich brauche eine Pause.","arabic":"أحتاج إلى استراحة."},
-{"id":327,"level":"A1","tag":"work","german":"Ich komme gleich.","arabic":"سآتي حالًا."},
-{"id":328,"level":"A1","tag":"work","german":"Ich bin gleich da.","arabic":"سأصل حالًا."},
-{"id":329,"level":"A1","tag":"work","german":"Ich helfe dir.","arabic":"أساعدك."},
-{"id":330,"level":"A1","tag":"work","german":"Ich frage dich.","arabic":"أسألك."},
-
-,
-{"id":401,"level":"A1","tag":"home","german":"Ich mache die Tür zu.","arabic":"أغلق الباب."},
-{"id":402,"level":"A1","tag":"home","german":"Ich mache das Fenster auf.","arabic":"أفتح النافذة."},
-{"id":403,"level":"A1","tag":"home","german":"Ich räume auf.","arabic":"أنظف المكان."},
-{"id":404,"level":"A1","tag":"home","german":"Ich wasche meine Hände.","arabic":"أغسل يدي."},
-{"id":405,"level":"A1","tag":"home","german":"Ich koche heute.","arabic":"أطبخ اليوم."},
-{"id":406,"level":"A1","tag":"home","german":"Ich esse zu Abend.","arabic":"أتناول العشاء."},
-{"id":407,"level":"A1","tag":"home","german":"Ich sehe fern.","arabic":"أشاهد التلفاز."},
-{"id":408,"level":"A1","tag":"home","german":"Ich lese ein Buch.","arabic":"أقرأ كتابًا."},
-{"id":409,"level":"A1","tag":"home","german":"Ich höre Radio.","arabic":"أستمع إلى الراديو."},
-{"id":410,"level":"A1","tag":"home","german":"Ich gehe schlafen.","arabic":"أذهب للنوم."},
-
-{"id":411,"level":"A1","tag":"daily","german":"Ich gehe spazieren.","arabic":"أذهب للمشي."},
-{"id":412,"level":"A1","tag":"daily","german":"Ich treffe Freunde.","arabic":"أقابل الأصدقاء."},
-{"id":413,"level":"A1","tag":"daily","german":"Ich bleibe heute zu Hause.","arabic":"أبقى في المنزل اليوم."},
-{"id":414,"level":"A1","tag":"daily","german":"Ich bin heute müde.","arabic":"أنا متعب اليوم."},
-{"id":415,"level":"A1","tag":"daily","german":"Ich bin heute fit.","arabic":"أنا نشيط اليوم."},
-{"id":416,"level":"A1","tag":"daily","german":"Ich komme gleich zurück.","arabic":"سأعود حالًا."},
-{"id":417,"level":"A1","tag":"daily","german":"Ich gehe kurz raus.","arabic":"أخرج قليلًا."},
-{"id":418,"level":"A1","tag":"daily","german":"Ich bin gleich fertig.","arabic":"سأنتهي حالًا."},
-{"id":419,"level":"A1","tag":"daily","german":"Ich bleibe noch.","arabic":"سأبقى قليلًا."},
-{"id":420,"level":"A1","tag":"daily","german":"Ich gehe bald.","arabic":"سأذهب قريبًا."},
-
-{"id":421,"level":"A1","tag":"work","german":"Ich fange jetzt an.","arabic":"أبدأ الآن."},
-{"id":422,"level":"A1","tag":"work","german":"Ich höre jetzt auf.","arabic":"أنتهي الآن."},
-{"id":423,"level":"A1","tag":"work","german":"Ich arbeite am Computer.","arabic":"أعمل على الكمبيوتر."},
-{"id":424,"level":"A1","tag":"work","german":"Ich habe viel Arbeit.","arabic":"لدي عمل كثير."},
-{"id":425,"level":"A1","tag":"work","german":"Ich habe wenig Arbeit.","arabic":"لدي عمل قليل."},
-{"id":426,"level":"A1","tag":"work","german":"Ich bin im Büro.","arabic":"أنا في المكتب."},
-{"id":427,"level":"A1","tag":"work","german":"Ich gehe ins Büro.","arabic":"أذهب إلى المكتب."},
-{"id":428,"level":"A1","tag":"work","german":"Ich komme ins Büro.","arabic":"آتي إلى المكتب."},
-{"id":429,"level":"A1","tag":"work","german":"Ich arbeite im Team.","arabic":"أعمل ضمن فريق."},
-{"id":430,"level":"A1","tag":"work","german":"Ich mache Feierabend.","arabic":"أنهي العمل."},
-
-{"id":431,"level":"A1","tag":"travel","german":"Ich fahre in die Stadt.","arabic":"أذهب إلى المدينة."},
-{"id":432,"level":"A1","tag":"travel","german":"Ich gehe zum Bahnhof.","arabic":"أذهب إلى محطة القطار."},
-{"id":433,"level":"A1","tag":"travel","german":"Ich komme am Abend.","arabic":"آتي مساءً."},
-{"id":434,"level":"A1","tag":"travel","german":"Ich gehe am Morgen.","arabic":"أذهب صباحًا."},
-{"id":435,"level":"A1","tag":"travel","german":"Ich bin früh da.","arabic":"أصل مبكرًا."},
-{"id":436,"level":"A1","tag":"travel","german":"Ich bin spät da.","arabic":"أصل متأخرًا."},
-{"id":437,"level":"A1","tag":"travel","german":"Ich warte am Bahnhof.","arabic":"أنتظر في محطة القطار."},
-{"id":438,"level":"A1","tag":"travel","german":"Ich nehme ein Taxi.","arabic":"أركب سيارة أجرة."},
-{"id":439,"level":"A1","tag":"travel","german":"Ich fahre mit dem Auto.","arabic":"أقود السيارة."},
-{"id":440,"level":"A1","tag":"travel","german":"Ich komme gut an.","arabic":"أصل بخير."},
-
-{"id":441,"level":"B1","tag":"daily","german":"Ich bleibe heute länger zu Hause.","arabic":"سأبقى في المنزل مدة أطول اليوم."},
-{"id":442,"level":"B1","tag":"daily","german":"Ich habe heute viel vor.","arabic":"لدي الكثير اليوم."},
-{"id":443,"level":"B1","tag":"daily","german":"Ich nehme das später mit.","arabic":"سآخذه لاحقًا."},
-{"id":444,"level":"B1","tag":"daily","german":"Ich lasse das heute.","arabic":"سأترك هذا اليوم."},
-{"id":445,"level":"B1","tag":"daily","german":"Ich komme damit klar.","arabic":"أتعامل مع الأمر."},
-{"id":446,"level":"B1","tag":"daily","german":"Ich komme nicht dazu.","arabic":"لا أجد وقتًا لذلك."},
-{"id":447,"level":"B1","tag":"daily","german":"Ich habe das schon gemacht.","arabic":"لقد فعلت ذلك بالفعل."},
-{"id":448,"level":"B1","tag":"daily","german":"Ich mache das morgen.","arabic":"سأفعل ذلك غدًا."},
-{"id":449,"level":"B1","tag":"daily","german":"Ich sehe mir das an.","arabic":"سأنظر في الأمر."},
-{"id":450,"level":"B1","tag":"daily","german":"Ich denke noch darüber nach.","arabic":"ما زلت أفكر في الأمر."},
-
-{"id":451,"level":"B1","tag":"work","german":"Ich muss heute länger arbeiten.","arabic":"يجب أن أعمل مدة أطول اليوم."},
-{"id":452,"level":"B1","tag":"work","german":"Ich bin mit der Arbeit fertig.","arabic":"انتهيت من العمل."},
-{"id":453,"level":"B1","tag":"work","german":"Ich habe morgen frei.","arabic":"أنا في إجازة غدًا."},
-{"id":454,"level":"B1","tag":"work","german":"Ich melde mich später bei dir.","arabic":"سأتواصل معك لاحقًا."},
-{"id":455,"level":"B1","tag":"work","german":"Ich brauche noch Zeit.","arabic":"أحتاج إلى مزيد من الوقت."},
-{"id":456,"level":"B1","tag":"work","german":"Ich bin gleich fertig.","arabic":"سأنتهي حالًا."},
-{"id":457,"level":"B1","tag":"work","german":"Ich arbeite daran.","arabic":"أعمل على ذلك."},
-{"id":458,"level":"B1","tag":"work","german":"Ich habe eine Idee.","arabic":"لدي فكرة."},
-{"id":459,"level":"B1","tag":"work","german":"Ich kläre das ab.","arabic":"سأتحقق من ذلك."},
-{"id":460,"level":"B1","tag":"work","german":"Ich sage dir Bescheid.","arabic":"سأخبرك."},
-
-{"id":461,"level":"B1","tag":"travel","german":"Ich fahre morgen früh los.","arabic":"سأنطلق غدًا باكرًا."},
-{"id":462,"level":"B1","tag":"travel","german":"Ich komme später an.","arabic":"سأصل لاحقًا."},
-{"id":463,"level":"B1","tag":"travel","german":"Ich bleibe übers Wochenende.","arabic":"سأبقى طوال عطلة نهاية الأسبوع."},
-{"id":464,"level":"B1","tag":"travel","german":"Ich reise nächste Woche.","arabic":"أسافر الأسبوع القادم."},
-{"id":465,"level":"B1","tag":"travel","german":"Ich bin schon unterwegs.","arabic":"أنا بالفعل في الطريق."},
-{"id":466,"level":"B1","tag":"travel","german":"Ich komme am Nachmittag.","arabic":"سآتي بعد الظهر."},
-{"id":467,"level":"B1","tag":"travel","german":"Ich gehe gleich los.","arabic":"سأنطلق حالًا."},
-{"id":468,"level":"B1","tag":"travel","german":"Ich fahre nach der Arbeit.","arabic":"أذهب بعد العمل."},
-{"id":469,"level":"B1","tag":"travel","german":"Ich komme erst morgen.","arabic":"لن آتي إلا غدًا."},
-{"id":470,"level":"B1","tag":"travel","german":"Ich bin fast da.","arabic":"أنا على وشك الوصول."},
-
-{"id":471,"level":"B1","tag":"daily","german":"Ich muss mich beeilen.","arabic":"يجب أن أستعجل."},
-{"id":472,"level":"B1","tag":"daily","german":"Ich habe es eilig.","arabic":"أنا مستعجل."},
-{"id":473,"level":"B1","tag":"daily","german":"Ich komme nicht klar damit.","arabic":"لا أتعامل مع الأمر جيدًا."},
-{"id":474,"level":"B1","tag":"daily","german":"Ich habe das nicht erwartet.","arabic":"لم أتوقع ذلك."},
-{"id":475,"level":"B1","tag":"daily","german":"Ich bin damit einverstanden.","arabic":"أنا موافق على ذلك."},
-{"id":476,"level":"B1","tag":"daily","german":"Ich bin dagegen.","arabic":"أنا ضد ذلك."},
-{"id":477,"level":"B1","tag":"daily","german":"Ich überlege noch.","arabic":"ما زلت أفكر."},
-{"id":478,"level":"B1","tag":"daily","german":"Ich lasse es dabei.","arabic":"سأترك الأمر هكذا."},
-{"id":479,"level":"B1","tag":"daily","german":"Ich mache mir Sorgen.","arabic":"أنا قلق."},
-{"id":480,"level":"B1","tag":"daily","german":"Ich freue mich darauf.","arabic":"أتطلع إلى ذلك."},
-
-{"id":481,"level":"B1","tag":"daily","german":"Ich bin gespannt.","arabic":"أنا متشوق."},
-{"id":482,"level":"B1","tag":"daily","german":"Ich halte das für gut.","arabic":"أعتبر ذلك جيدًا."},
-{"id":483,"level":"B1","tag":"daily","german":"Ich finde das wichtig.","arabic":"أرى أن هذا مهم."},
-{"id":484,"level":"B1","tag":"daily","german":"Ich habe damit gerechnet.","arabic":"كنت أتوقع ذلك."},
-{"id":485,"level":"B1","tag":"daily","german":"Ich komme darauf zurück.","arabic":"سأعود إلى هذا لاحقًا."},
-{"id":486,"level":"B1","tag":"daily","german":"Ich sehe das anders.","arabic":"أرى الأمر بشكل مختلف."},
-{"id":487,"level":"B1","tag":"daily","german":"Ich lasse mir Zeit.","arabic":"سآخذ وقتي."},
-{"id":488,"level":"B1","tag":"daily","german":"Ich habe mich geirrt.","arabic":"كنت مخطئًا."},
-{"id":489,"level":"B1","tag":"daily","german":"Ich bin mir nicht sicher.","arabic":"لست متأكدًا."},
-{"id":490,"level":"B1","tag":"daily","german":"Ich bin mir sicher.","arabic":"أنا متأكد."},
-
-{"id":491,"level":"B1","tag":"daily","german":"Ich komme damit nicht zurecht.","arabic":"لا أتعامل مع الأمر جيدًا."},
-{"id":492,"level":"B1","tag":"daily","german":"Ich habe keine Lust.","arabic":"لا رغبة لدي."},
-{"id":493,"level":"B1","tag":"daily","german":"Ich habe Lust.","arabic":"لدي رغبة."},
-{"id":494,"level":"B1","tag":"daily","german":"Ich mache mir Gedanken.","arabic":"أفكر في الأمر."},
-{"id":495,"level":"B1","tag":"daily","german":"Ich halte das aus.","arabic":"أتحمل ذلك."},
-{"id":496,"level":"B1","tag":"daily","german":"Ich komme damit klar.","arabic":"أتعامل مع الأمر."},
-{"id":497,"level":"B1","tag":"daily","german":"Ich sehe keinen Sinn.","arabic":"لا أرى فائدة."},
-{"id":498,"level":"B1","tag":"daily","german":"Ich sehe einen Sinn.","arabic":"أرى فائدة."},
-{"id":499,"level":"B1","tag":"daily","german":"Ich komme darauf zurück.","arabic":"سأعود إلى ذلك."},
-{"id":500,"level":"B1","tag":"daily","german":"Ich mache das anders.","arabic":"سأفعل ذلك بطريقة مختلفة."}
-
-
-{"id":331,"level":"B1","tag":"daily","german":"Ich mache das später.","arabic":"سأفعل ذلك لاحقًا."},
-{"id":332,"level":"B1","tag":"daily","german":"Ich versuche es noch mal.","arabic":"سأحاول مرة أخرى."},
-{"id":333,"level":"B1","tag":"daily","german":"Ich komme heute nicht.","arabic":"لن آتي اليوم."},
-{"id":334,"level":"B1","tag":"daily","german":"Ich bleibe lieber zu Hause.","arabic":"أفضل البقاء في المنزل."},
-{"id":335,"level":"B1","tag":"daily","german":"Ich habe genug Zeit.","arabic":"لدي وقت كافٍ."},
-{"id":336,"level":"B1","tag":"daily","german":"Ich habe wenig Zeit.","arabic":"لدي وقت قليل."},
-{"id":337,"level":"B1","tag":"daily","german":"Ich nehme mir Zeit.","arabic":"آخذ وقتي."},
-{"id":338,"level":"B1","tag":"daily","german":"Ich denke kurz nach.","arabic":"أفكر قليلًا."},
-{"id":339,"level":"B1","tag":"daily","german":"Ich bin mir sicher.","arabic":"أنا متأكد."},
-{"id":340,"level":"B1","tag":"daily","german":"Ich bin mir nicht sicher.","arabic":"لست متأكدًا."}
-
-
-  
-  
-  {"id":31,"level":"B1","german":"Ich stehe früh auf.","arabic":"أستيقظ مبكرًا."},
-  {"id":32,"level":"B1","german":"Ich gehe heute einkaufen.","arabic":"أذهب للتسوق اليوم."},
-  {"id":33,"level":"B1","german":"Ich muss arbeiten.","arabic":"يجب أن أعمل."},
-  {"id":34,"level":"B1","german":"Ich möchte zu Hause bleiben.","arabic":"أريد أن أبقى في المنزل."},
-  {"id":35,"level":"B1","german":"Ich habe keine Zeit.","arabic":"ليس لدي وقت."},
-  {"id":36,"level":"B1","german":"Ich kann dir helfen.","arabic":"أستطيع مساعدتك."},
-  {"id":37,"level":"B1","german":"Ich muss heute lernen.","arabic":"يجب أن أدرس اليوم."},
-  {"id":38,"level":"B1","german":"Ich komme ein bisschen später.","arabic":"سآتي متأخرًا قليلًا."},
-  {"id":39,"level":"B1","german":"Ich bin gerade unterwegs.","arabic":"أنا في الطريق الآن."},
-  {"id":40,"level":"B1","german":"Ich bleibe heute länger.","arabic":"سأبقى مدة أطول اليوم."},
-
-  {"id":41,"level":"B1","german":"Ich habe viel zu tun.","arabic":"لدي الكثير لأفعله."},
-  {"id":42,"level":"B1","german":"Ich möchte Deutsch besser sprechen.","arabic":"أريد أن أتحدث الألمانية بشكل أفضل."},
-  {"id":43,"level":"B1","german":"Ich muss früh schlafen.","arabic":"يجب أن أنام مبكرًا."},
-  {"id":44,"level":"B1","german":"Ich habe heute frei.","arabic":"أنا في إجازة اليوم."},
-  {"id":45,"level":"B1","german":"Ich bin fast fertig.","arabic":"أنا على وشك الانتهاء."},
-  {"id":46,"level":"B1","german":"Ich denke darüber nach.","arabic":"أفكر في الأمر."},
-  {"id":47,"level":"B1","german":"Ich habe das schon gemacht.","arabic":"لقد فعلت ذلك بالفعل."},
-  {"id":48,"level":"B1","german":"Ich möchte etwas essen.","arabic":"أريد أن آكل شيئًا."},
-  {"id":49,"level":"B1","german":"Ich komme nicht klar.","arabic":"لا أتعامل مع الأمر جيدًا."},
-  {"id":50,"level":"B1","german":"Ich versuche es noch mal.","arabic":"سأحاول مرة أخرى."},
-
-  {"id":51,"level":"B1","german":"Ich habe das vergessen.","arabic":"نسيت ذلك."},
-  {"id":52,"level":"B1","german":"Ich melde mich später.","arabic":"سأتواصل لاحقًا."},
-  {"id":53,"level":"B1","german":"Ich muss gleich los.","arabic":"يجب أن أنطلق الآن."},
-  {"id":54,"level":"B1","german":"Ich bin damit einverstanden.","arabic":"أنا موافق على ذلك."},
-  {"id":55,"level":"B1","german":"Ich komme damit klar.","arabic":"أتعامل مع الأمر."},
-  {"id":56,"level":"B1","german":"Ich habe genug davon.","arabic":"لقد سئمت من ذلك."},
-  {"id":57,"level":"B1","german":"Ich nehme mir Zeit.","arabic":"آخذ وقتي."},
-  {"id":58,"level":"B1","german":"Ich lasse das heute.","arabic":"سأترك هذا اليوم."},
-  {"id":59,"level":"B1","german":"Ich schaue später nach.","arabic":"سأنظر في الأمر لاحقًا."},
-  {"id":60,"level":"B1","german":"Ich mache das morgen.","arabic":"سأفعل ذلك غدًا."}
-  
-{"id":181,"level":"B1","tag":"work","german":"Ich muss heute arbeiten.","arabic":"يجب أن أعمل اليوم."},
-{"id":182,"level":"B1","tag":"daily","german":"Ich möchte zu Hause bleiben.","arabic":"أريد أن أبقى في المنزل."},
-{"id":183,"level":"B1","tag":"daily","german":"Ich habe viel zu tun.","arabic":"لدي الكثير لأفعله."},
-{"id":184,"level":"B1","tag":"travel","german":"Ich komme ein bisschen später.","arabic":"سآتي متأخرًا قليلًا."},
-{"id":185,"level":"B1","tag":"daily","german":"Ich stehe jeden Tag früh auf.","arabic":"أستيقظ مبكرًا كل يوم."},
-{"id":186,"level":"B1","tag":"work","german":"Ich kann dir helfen.","arabic":"أستطيع مساعدتك."},
-{"id":187,"level":"B1","tag":"daily","german":"Ich melde mich später.","arabic":"سأتواصل لاحقًا."},
-{"id":188,"level":"B1","tag":"travel","german":"Ich muss gleich los.","arabic":"يجب أن أنطلق الآن."},
-{"id":189,"level":"B1","tag":"daily","german":"Ich bin fast fertig.","arabic":"أنا على وشك الانتهاء."},
-{"id":190,"level":"B1","tag":"daily","german":"Ich denke darüber nach.","arabic":"أفكر في الأمر."}
-]
-
-  
-  
-]
-
-  
-  
-  
-  
+  {
+    "id": 1,
+    "level": "A1",
+    "german": "Ich bin müde.",
+    "arabic": "أنا متعب."
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "german": "Ich gehe nach Hause.",
+    "arabic": "أنا أذهب إلى المنزل."
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "german": "Ich trinke Wasser.",
+    "arabic": "أنا أشرب الماء."
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "german": "Ich habe Hunger.",
+    "arabic": "أنا جائع."
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "german": "Ich habe Zeit.",
+    "arabic": "لدي وقت."
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "german": "Ich arbeite heute.",
+    "arabic": "أنا أعمل اليوم."
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "german": "Ich lerne Deutsch.",
+    "arabic": "أنا أتعلم الألمانية."
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "german": "Ich komme später.",
+    "arabic": "سآتي لاحقًا."
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "german": "Ich bleibe hier.",
+    "arabic": "أبقى هنا."
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "german": "Ich mag Kaffee.",
+    "arabic": "أنا أحب القهوة."
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "german": "Ich esse Brot.",
+    "arabic": "أنا آكل الخبز."
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "german": "Ich höre Musik.",
+    "arabic": "أستمع إلى الموسيقى."
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "german": "Ich bin zu Hause.",
+    "arabic": "أنا في المنزل."
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "german": "Ich gehe jetzt.",
+    "arabic": "أنا أذهب الآن."
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "german": "Ich schlafe gut.",
+    "arabic": "أنام جيدًا."
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "german": "Ich bin glücklich.",
+    "arabic": "أنا سعيد."
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "german": "Ich bin traurig.",
+    "arabic": "أنا حزين."
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "german": "Ich brauche Hilfe.",
+    "arabic": "أحتاج مساعدة."
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "german": "Ich verstehe dich.",
+    "arabic": "أنا أفهمك."
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "german": "Ich warte hier.",
+    "arabic": "أنتظر هنا."
+  },
+  {
+    "id": 21,
+    "level": "A1",
+    "german": "Ich komme morgen.",
+    "arabic": "سآتي غدًا."
+  },
+  {
+    "id": 22,
+    "level": "A1",
+    "german": "Ich gehe heute.",
+    "arabic": "أذهب اليوم."
+  },
+  {
+    "id": 23,
+    "level": "A1",
+    "german": "Ich bleibe zu Hause.",
+    "arabic": "أبقى في المنزل."
+  },
+  {
+    "id": 24,
+    "level": "A1",
+    "german": "Ich fühle mich gut.",
+    "arabic": "أشعر أنني بخير."
+  },
+  {
+    "id": 25,
+    "level": "A1",
+    "german": "Ich bin draußen.",
+    "arabic": "أنا في الخارج."
+  },
+  {
+    "id": 26,
+    "level": "A1",
+    "german": "Ich bin drinnen.",
+    "arabic": "أنا في الداخل."
+  },
+  {
+    "id": 27,
+    "level": "A1",
+    "german": "Ich rufe dich an.",
+    "arabic": "سأتصل بك."
+  },
+  {
+    "id": 28,
+    "level": "A1",
+    "german": "Ich schreibe dir.",
+    "arabic": "سأكتب لك."
+  },
+  {
+    "id": 29,
+    "level": "A1",
+    "german": "Ich mache Pause.",
+    "arabic": "آخذ استراحة."
+  },
+  {
+    "id": 30,
+    "level": "A1",
+    "german": "Ich bin fertig.",
+    "arabic": "انتهيت."
+  },
+  {
+    "id": 1,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich bin zu Hause.",
+    "arabic": "أنا في المنزل."
+  },
+  {
+    "id": 2,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich gehe nach Hause.",
+    "arabic": "أنا أذهب إلى المنزل."
+  },
+  {
+    "id": 3,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich esse Brot.",
+    "arabic": "أنا آكل الخبز."
+  },
+  {
+    "id": 4,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich trinke Wasser.",
+    "arabic": "أنا أشرب الماء."
+  },
+  {
+    "id": 5,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich bin müde.",
+    "arabic": "أنا متعب."
+  },
+  {
+    "id": 6,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich schlafe gut.",
+    "arabic": "أنام جيدًا."
+  },
+  {
+    "id": 7,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich habe Hunger.",
+    "arabic": "أنا جائع."
+  },
+  {
+    "id": 8,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich habe Durst.",
+    "arabic": "أنا عطشان."
+  },
+  {
+    "id": 9,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich bin allein.",
+    "arabic": "أنا وحدي."
+  },
+  {
+    "id": 10,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich bin nicht allein.",
+    "arabic": "لست وحدي."
+  },
+  {
+    "id": 11,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich stehe früh auf.",
+    "arabic": "أستيقظ مبكرًا."
+  },
+  {
+    "id": 12,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich gehe jetzt.",
+    "arabic": "أنا أذهب الآن."
+  },
+  {
+    "id": 13,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich komme später.",
+    "arabic": "سآتي لاحقًا."
+  },
+  {
+    "id": 14,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich warte hier.",
+    "arabic": "أنتظر هنا."
+  },
+  {
+    "id": 15,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich bleibe hier.",
+    "arabic": "أبقى هنا."
+  },
+  {
+    "id": 16,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich habe Zeit.",
+    "arabic": "لدي وقت."
+  },
+  {
+    "id": 17,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich habe keine Zeit.",
+    "arabic": "ليس لدي وقت."
+  },
+  {
+    "id": 18,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich bin fertig.",
+    "arabic": "انتهيت."
+  },
+  {
+    "id": 19,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich mache Pause.",
+    "arabic": "آخذ استراحة."
+  },
+  {
+    "id": 20,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich fühle mich gut.",
+    "arabic": "أشعر أنني بخير."
+  },
+  {
+    "id": 61,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich arbeite heute.",
+    "arabic": "أنا أعمل اليوم."
+  },
+  {
+    "id": 62,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich gehe zur Arbeit.",
+    "arabic": "أذهب إلى العمل."
+  },
+  {
+    "id": 63,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich bin pünktlich.",
+    "arabic": "أنا في الموعد."
+  },
+  {
+    "id": 64,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich bin zu spät.",
+    "arabic": "أنا متأخر."
+  },
+  {
+    "id": 65,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich brauche Hilfe.",
+    "arabic": "أحتاج مساعدة."
+  },
+  {
+    "id": 66,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich verstehe dich.",
+    "arabic": "أنا أفهمك."
+  },
+  {
+    "id": 67,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich verstehe das nicht.",
+    "arabic": "لا أفهم ذلك."
+  },
+  {
+    "id": 68,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich frage später.",
+    "arabic": "سأسأل لاحقًا."
+  },
+  {
+    "id": 69,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich lerne Deutsch.",
+    "arabic": "أنا أتعلم الألمانية."
+  },
+  {
+    "id": 70,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich schreibe dir.",
+    "arabic": "سأكتب لك."
+  },
+  {
+    "id": 121,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich fahre nach Hause.",
+    "arabic": "أعود إلى المنزل."
+  },
+  {
+    "id": 122,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich bin unterwegs.",
+    "arabic": "أنا في الطريق."
+  },
+  {
+    "id": 123,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich komme morgen.",
+    "arabic": "سآتي غدًا."
+  },
+  {
+    "id": 124,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich gehe heute.",
+    "arabic": "أذهب اليوم."
+  },
+  {
+    "id": 125,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich bleibe hier.",
+    "arabic": "أبقى هنا."
+  },
+  {
+    "id": 126,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich bin draußen.",
+    "arabic": "أنا في الخارج."
+  },
+  {
+    "id": 127,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich bin drinnen.",
+    "arabic": "أنا في الداخل."
+  },
+  {
+    "id": 128,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich gehe spazieren.",
+    "arabic": "أذهب للمشي."
+  },
+  {
+    "id": 129,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich kaufe Brot.",
+    "arabic": "أشتري خبزًا."
+  },
+  {
+    "id": 130,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich warte dort.",
+    "arabic": "أنتظر هناك."
+  },
+  {
+    "id": 121,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich fahre nach Hause.",
+    "arabic": "أعود إلى المنزل."
+  },
+  {
+    "id": 122,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich bin unterwegs.",
+    "arabic": "أنا في الطريق."
+  },
+  {
+    "id": 123,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich komme morgen.",
+    "arabic": "سآتي غدًا."
+  },
+  {
+    "id": 124,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich gehe heute.",
+    "arabic": "أذهب اليوم."
+  },
+  {
+    "id": 125,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich bleibe hier.",
+    "arabic": "أبقى هنا."
+  },
+  {
+    "id": 126,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich bin draußen.",
+    "arabic": "أنا في الخارج."
+  },
+  {
+    "id": 127,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich bin drinnen.",
+    "arabic": "أنا في الداخل."
+  },
+  {
+    "id": 128,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich gehe spazieren.",
+    "arabic": "أذهب للمشي."
+  },
+  {
+    "id": 129,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich kaufe Brot.",
+    "arabic": "أشتري خبزًا."
+  },
+  {
+    "id": 130,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich warte dort.",
+    "arabic": "أنتظر هناك."
+  },
+  {
+    "id": 301,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich stehe jetzt auf.",
+    "arabic": "أستيقظ الآن."
+  },
+  {
+    "id": 302,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich mache das Licht an.",
+    "arabic": "أشغّل الضوء."
+  },
+  {
+    "id": 303,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich mache das Licht aus.",
+    "arabic": "أطفئ الضوء."
+  },
+  {
+    "id": 304,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich frühstücke zu Hause.",
+    "arabic": "أتناول الفطور في المنزل."
+  },
+  {
+    "id": 305,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich gehe duschen.",
+    "arabic": "أذهب للاستحمام."
+  },
+  {
+    "id": 306,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich ziehe mich an.",
+    "arabic": "أرتدي ملابسي."
+  },
+  {
+    "id": 307,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich bin bereit.",
+    "arabic": "أنا مستعد."
+  },
+  {
+    "id": 308,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich gehe jetzt raus.",
+    "arabic": "أخرج الآن."
+  },
+  {
+    "id": 309,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich nehme den Bus.",
+    "arabic": "أركب الحافلة."
+  },
+  {
+    "id": 310,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich fahre mit der Bahn.",
+    "arabic": "أسافر بالقطار."
+  },
+  {
+    "id": 311,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich komme gut an.",
+    "arabic": "أصل بخير."
+  },
+  {
+    "id": 312,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich bin noch unterwegs.",
+    "arabic": "ما زلت في الطريق."
+  },
+  {
+    "id": 313,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich mache Kaffee.",
+    "arabic": "أحضر القهوة."
+  },
+  {
+    "id": 314,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich trinke Tee.",
+    "arabic": "أشرب الشاي."
+  },
+  {
+    "id": 315,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich esse zu Mittag.",
+    "arabic": "أتناول الغداء."
+  },
+  {
+    "id": 316,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich habe heute frei.",
+    "arabic": "أنا في إجازة اليوم."
+  },
+  {
+    "id": 317,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich bleibe heute hier.",
+    "arabic": "سأبقى هنا اليوم."
+  },
+  {
+    "id": 318,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich gehe heute früh.",
+    "arabic": "أذهب مبكرًا اليوم."
+  },
+  {
+    "id": 319,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich komme spät.",
+    "arabic": "سآتي متأخرًا."
+  },
+  {
+    "id": 320,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich ruhe mich aus.",
+    "arabic": "أرتاح."
+  },
+  {
+    "id": 321,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich fange an.",
+    "arabic": "أبدأ."
+  },
+  {
+    "id": 322,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich höre auf.",
+    "arabic": "أنتهي."
+  },
+  {
+    "id": 323,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich arbeite hier.",
+    "arabic": "أعمل هنا."
+  },
+  {
+    "id": 324,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich arbeite heute viel.",
+    "arabic": "أعمل كثيرًا اليوم."
+  },
+  {
+    "id": 325,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich mache meine Arbeit.",
+    "arabic": "أقوم بعملي."
+  },
+  {
+    "id": 326,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich brauche eine Pause.",
+    "arabic": "أحتاج إلى استراحة."
+  },
+  {
+    "id": 327,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich komme gleich.",
+    "arabic": "سآتي حالًا."
+  },
+  {
+    "id": 328,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich bin gleich da.",
+    "arabic": "سأصل حالًا."
+  },
+  {
+    "id": 329,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich helfe dir.",
+    "arabic": "أساعدك."
+  },
+  {
+    "id": 330,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich frage dich.",
+    "arabic": "أسألك."
+  },
+  {
+    "id": 401,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich mache die Tür zu.",
+    "arabic": "أغلق الباب."
+  },
+  {
+    "id": 402,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich mache das Fenster auf.",
+    "arabic": "أفتح النافذة."
+  },
+  {
+    "id": 403,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich räume auf.",
+    "arabic": "أنظف المكان."
+  },
+  {
+    "id": 404,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich wasche meine Hände.",
+    "arabic": "أغسل يدي."
+  },
+  {
+    "id": 405,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich koche heute.",
+    "arabic": "أطبخ اليوم."
+  },
+  {
+    "id": 406,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich esse zu Abend.",
+    "arabic": "أتناول العشاء."
+  },
+  {
+    "id": 407,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich sehe fern.",
+    "arabic": "أشاهد التلفاز."
+  },
+  {
+    "id": 408,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich lese ein Buch.",
+    "arabic": "أقرأ كتابًا."
+  },
+  {
+    "id": 409,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich höre Radio.",
+    "arabic": "أستمع إلى الراديو."
+  },
+  {
+    "id": 410,
+    "level": "A1",
+    "tag": "home",
+    "german": "Ich gehe schlafen.",
+    "arabic": "أذهب للنوم."
+  },
+  {
+    "id": 411,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich gehe spazieren.",
+    "arabic": "أذهب للمشي."
+  },
+  {
+    "id": 412,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich treffe Freunde.",
+    "arabic": "أقابل الأصدقاء."
+  },
+  {
+    "id": 413,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich bleibe heute zu Hause.",
+    "arabic": "أبقى في المنزل اليوم."
+  },
+  {
+    "id": 414,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich bin heute müde.",
+    "arabic": "أنا متعب اليوم."
+  },
+  {
+    "id": 415,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich bin heute fit.",
+    "arabic": "أنا نشيط اليوم."
+  },
+  {
+    "id": 416,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich komme gleich zurück.",
+    "arabic": "سأعود حالًا."
+  },
+  {
+    "id": 417,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich gehe kurz raus.",
+    "arabic": "أخرج قليلًا."
+  },
+  {
+    "id": 418,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich bin gleich fertig.",
+    "arabic": "سأنتهي حالًا."
+  },
+  {
+    "id": 419,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich bleibe noch.",
+    "arabic": "سأبقى قليلًا."
+  },
+  {
+    "id": 420,
+    "level": "A1",
+    "tag": "daily",
+    "german": "Ich gehe bald.",
+    "arabic": "سأذهب قريبًا."
+  },
+  {
+    "id": 421,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich fange jetzt an.",
+    "arabic": "أبدأ الآن."
+  },
+  {
+    "id": 422,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich höre jetzt auf.",
+    "arabic": "أنتهي الآن."
+  },
+  {
+    "id": 423,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich arbeite am Computer.",
+    "arabic": "أعمل على الكمبيوتر."
+  },
+  {
+    "id": 424,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich habe viel Arbeit.",
+    "arabic": "لدي عمل كثير."
+  },
+  {
+    "id": 425,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich habe wenig Arbeit.",
+    "arabic": "لدي عمل قليل."
+  },
+  {
+    "id": 426,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich bin im Büro.",
+    "arabic": "أنا في المكتب."
+  },
+  {
+    "id": 427,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich gehe ins Büro.",
+    "arabic": "أذهب إلى المكتب."
+  },
+  {
+    "id": 428,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich komme ins Büro.",
+    "arabic": "آتي إلى المكتب."
+  },
+  {
+    "id": 429,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich arbeite im Team.",
+    "arabic": "أعمل ضمن فريق."
+  },
+  {
+    "id": 430,
+    "level": "A1",
+    "tag": "work",
+    "german": "Ich mache Feierabend.",
+    "arabic": "أنهي العمل."
+  },
+  {
+    "id": 431,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich fahre in die Stadt.",
+    "arabic": "أذهب إلى المدينة."
+  },
+  {
+    "id": 432,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich gehe zum Bahnhof.",
+    "arabic": "أذهب إلى محطة القطار."
+  },
+  {
+    "id": 433,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich komme am Abend.",
+    "arabic": "آتي مساءً."
+  },
+  {
+    "id": 434,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich gehe am Morgen.",
+    "arabic": "أذهب صباحًا."
+  },
+  {
+    "id": 435,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich bin früh da.",
+    "arabic": "أصل مبكرًا."
+  },
+  {
+    "id": 436,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich bin spät da.",
+    "arabic": "أصل متأخرًا."
+  },
+  {
+    "id": 437,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich warte am Bahnhof.",
+    "arabic": "أنتظر في محطة القطار."
+  },
+  {
+    "id": 438,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich nehme ein Taxi.",
+    "arabic": "أركب سيارة أجرة."
+  },
+  {
+    "id": 439,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich fahre mit dem Auto.",
+    "arabic": "أقود السيارة."
+  },
+  {
+    "id": 440,
+    "level": "A1",
+    "tag": "travel",
+    "german": "Ich komme gut an.",
+    "arabic": "أصل بخير."
+  },
+  {
+    "id": 441,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich bleibe heute länger zu Hause.",
+    "arabic": "سأبقى في المنزل مدة أطول اليوم."
+  },
+  {
+    "id": 442,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich habe heute viel vor.",
+    "arabic": "لدي الكثير اليوم."
+  },
+  {
+    "id": 443,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich nehme das später mit.",
+    "arabic": "سآخذه لاحقًا."
+  },
+  {
+    "id": 444,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich lasse das heute.",
+    "arabic": "سأترك هذا اليوم."
+  },
+  {
+    "id": 445,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich komme damit klar.",
+    "arabic": "أتعامل مع الأمر."
+  },
+  {
+    "id": 446,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich komme nicht dazu.",
+    "arabic": "لا أجد وقتًا لذلك."
+  },
+  {
+    "id": 447,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich habe das schon gemacht.",
+    "arabic": "لقد فعلت ذلك بالفعل."
+  },
+  {
+    "id": 448,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich mache das morgen.",
+    "arabic": "سأفعل ذلك غدًا."
+  },
+  {
+    "id": 449,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich sehe mir das an.",
+    "arabic": "سأنظر في الأمر."
+  },
+  {
+    "id": 450,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich denke noch darüber nach.",
+    "arabic": "ما زلت أفكر في الأمر."
+  },
+  {
+    "id": 451,
+    "level": "B1",
+    "tag": "work",
+    "german": "Ich muss heute länger arbeiten.",
+    "arabic": "يجب أن أعمل مدة أطول اليوم."
+  },
+  {
+    "id": 452,
+    "level": "B1",
+    "tag": "work",
+    "german": "Ich bin mit der Arbeit fertig.",
+    "arabic": "انتهيت من العمل."
+  },
+  {
+    "id": 453,
+    "level": "B1",
+    "tag": "work",
+    "german": "Ich habe morgen frei.",
+    "arabic": "أنا في إجازة غدًا."
+  },
+  {
+    "id": 454,
+    "level": "B1",
+    "tag": "work",
+    "german": "Ich melde mich später bei dir.",
+    "arabic": "سأتواصل معك لاحقًا."
+  },
+  {
+    "id": 455,
+    "level": "B1",
+    "tag": "work",
+    "german": "Ich brauche noch Zeit.",
+    "arabic": "أحتاج إلى مزيد من الوقت."
+  },
+  {
+    "id": 456,
+    "level": "B1",
+    "tag": "work",
+    "german": "Ich bin gleich fertig.",
+    "arabic": "سأنتهي حالًا."
+  },
+  {
+    "id": 457,
+    "level": "B1",
+    "tag": "work",
+    "german": "Ich arbeite daran.",
+    "arabic": "أعمل على ذلك."
+  },
+  {
+    "id": 458,
+    "level": "B1",
+    "tag": "work",
+    "german": "Ich habe eine Idee.",
+    "arabic": "لدي فكرة."
+  },
+  {
+    "id": 459,
+    "level": "B1",
+    "tag": "work",
+    "german": "Ich kläre das ab.",
+    "arabic": "سأتحقق من ذلك."
+  },
+  {
+    "id": 460,
+    "level": "B1",
+    "tag": "work",
+    "german": "Ich sage dir Bescheid.",
+    "arabic": "سأخبرك."
+  },
+  {
+    "id": 461,
+    "level": "B1",
+    "tag": "travel",
+    "german": "Ich fahre morgen früh los.",
+    "arabic": "سأنطلق غدًا باكرًا."
+  },
+  {
+    "id": 462,
+    "level": "B1",
+    "tag": "travel",
+    "german": "Ich komme später an.",
+    "arabic": "سأصل لاحقًا."
+  },
+  {
+    "id": 463,
+    "level": "B1",
+    "tag": "travel",
+    "german": "Ich bleibe übers Wochenende.",
+    "arabic": "سأبقى طوال عطلة نهاية الأسبوع."
+  },
+  {
+    "id": 464,
+    "level": "B1",
+    "tag": "travel",
+    "german": "Ich reise nächste Woche.",
+    "arabic": "أسافر الأسبوع القادم."
+  },
+  {
+    "id": 465,
+    "level": "B1",
+    "tag": "travel",
+    "german": "Ich bin schon unterwegs.",
+    "arabic": "أنا بالفعل في الطريق."
+  },
+  {
+    "id": 466,
+    "level": "B1",
+    "tag": "travel",
+    "german": "Ich komme am Nachmittag.",
+    "arabic": "سآتي بعد الظهر."
+  },
+  {
+    "id": 467,
+    "level": "B1",
+    "tag": "travel",
+    "german": "Ich gehe gleich los.",
+    "arabic": "سأنطلق حالًا."
+  },
+  {
+    "id": 468,
+    "level": "B1",
+    "tag": "travel",
+    "german": "Ich fahre nach der Arbeit.",
+    "arabic": "أذهب بعد العمل."
+  },
+  {
+    "id": 469,
+    "level": "B1",
+    "tag": "travel",
+    "german": "Ich komme erst morgen.",
+    "arabic": "لن آتي إلا غدًا."
+  },
+  {
+    "id": 470,
+    "level": "B1",
+    "tag": "travel",
+    "german": "Ich bin fast da.",
+    "arabic": "أنا على وشك الوصول."
+  },
+  {
+    "id": 471,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich muss mich beeilen.",
+    "arabic": "يجب أن أستعجل."
+  },
+  {
+    "id": 472,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich habe es eilig.",
+    "arabic": "أنا مستعجل."
+  },
+  {
+    "id": 473,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich komme nicht klar damit.",
+    "arabic": "لا أتعامل مع الأمر جيدًا."
+  },
+  {
+    "id": 474,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich habe das nicht erwartet.",
+    "arabic": "لم أتوقع ذلك."
+  },
+  {
+    "id": 475,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich bin damit einverstanden.",
+    "arabic": "أنا موافق على ذلك."
+  },
+  {
+    "id": 476,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich bin dagegen.",
+    "arabic": "أنا ضد ذلك."
+  },
+  {
+    "id": 477,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich überlege noch.",
+    "arabic": "ما زلت أفكر."
+  },
+  {
+    "id": 478,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich lasse es dabei.",
+    "arabic": "سأترك الأمر هكذا."
+  },
+  {
+    "id": 479,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich mache mir Sorgen.",
+    "arabic": "أنا قلق."
+  },
+  {
+    "id": 480,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich freue mich darauf.",
+    "arabic": "أتطلع إلى ذلك."
+  },
+  {
+    "id": 481,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich bin gespannt.",
+    "arabic": "أنا متشوق."
+  },
+  {
+    "id": 482,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich halte das für gut.",
+    "arabic": "أعتبر ذلك جيدًا."
+  },
+  {
+    "id": 483,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich finde das wichtig.",
+    "arabic": "أرى أن هذا مهم."
+  },
+  {
+    "id": 484,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich habe damit gerechnet.",
+    "arabic": "كنت أتوقع ذلك."
+  },
+  {
+    "id": 485,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich komme darauf zurück.",
+    "arabic": "سأعود إلى هذا لاحقًا."
+  },
+  {
+    "id": 486,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich sehe das anders.",
+    "arabic": "أرى الأمر بشكل مختلف."
+  },
+  {
+    "id": 487,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich lasse mir Zeit.",
+    "arabic": "سآخذ وقتي."
+  },
+  {
+    "id": 488,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich habe mich geirrt.",
+    "arabic": "كنت مخطئًا."
+  },
+  {
+    "id": 489,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich bin mir nicht sicher.",
+    "arabic": "لست متأكدًا."
+  },
+  {
+    "id": 490,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich bin mir sicher.",
+    "arabic": "أنا متأكد."
+  },
+  {
+    "id": 491,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich komme damit nicht zurecht.",
+    "arabic": "لا أتعامل مع الأمر جيدًا."
+  },
+  {
+    "id": 492,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich habe keine Lust.",
+    "arabic": "لا رغبة لدي."
+  },
+  {
+    "id": 493,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich habe Lust.",
+    "arabic": "لدي رغبة."
+  },
+  {
+    "id": 494,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich mache mir Gedanken.",
+    "arabic": "أفكر في الأمر."
+  },
+  {
+    "id": 495,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich halte das aus.",
+    "arabic": "أتحمل ذلك."
+  },
+  {
+    "id": 496,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich komme damit klar.",
+    "arabic": "أتعامل مع الأمر."
+  },
+  {
+    "id": 497,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich sehe keinen Sinn.",
+    "arabic": "لا أرى فائدة."
+  },
+  {
+    "id": 498,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich sehe einen Sinn.",
+    "arabic": "أرى فائدة."
+  },
+  {
+    "id": 499,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich komme darauf zurück.",
+    "arabic": "سأعود إلى ذلك."
+  },
+  {
+    "id": 500,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich mache das anders.",
+    "arabic": "سأفعل ذلك بطريقة مختلفة."
+  },
+  {
+    "id": 331,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich mache das später.",
+    "arabic": "سأفعل ذلك لاحقًا."
+  },
+  {
+    "id": 332,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich versuche es noch mal.",
+    "arabic": "سأحاول مرة أخرى."
+  },
+  {
+    "id": 333,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich komme heute nicht.",
+    "arabic": "لن آتي اليوم."
+  },
+  {
+    "id": 334,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich bleibe lieber zu Hause.",
+    "arabic": "أفضل البقاء في المنزل."
+  },
+  {
+    "id": 335,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich habe genug Zeit.",
+    "arabic": "لدي وقت كافٍ."
+  },
+  {
+    "id": 336,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich habe wenig Zeit.",
+    "arabic": "لدي وقت قليل."
+  },
+  {
+    "id": 337,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich nehme mir Zeit.",
+    "arabic": "آخذ وقتي."
+  },
+  {
+    "id": 338,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich denke kurz nach.",
+    "arabic": "أفكر قليلًا."
+  },
+  {
+    "id": 339,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich bin mir sicher.",
+    "arabic": "أنا متأكد."
+  },
+  {
+    "id": 340,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich bin mir nicht sicher.",
+    "arabic": "لست متأكدًا."
+  },
+  {
+    "id": 31,
+    "level": "B1",
+    "german": "Ich stehe früh auf.",
+    "arabic": "أستيقظ مبكرًا."
+  },
+  {
+    "id": 32,
+    "level": "B1",
+    "german": "Ich gehe heute einkaufen.",
+    "arabic": "أذهب للتسوق اليوم."
+  },
+  {
+    "id": 33,
+    "level": "B1",
+    "german": "Ich muss arbeiten.",
+    "arabic": "يجب أن أعمل."
+  },
+  {
+    "id": 34,
+    "level": "B1",
+    "german": "Ich möchte zu Hause bleiben.",
+    "arabic": "أريد أن أبقى في المنزل."
+  },
+  {
+    "id": 35,
+    "level": "B1",
+    "german": "Ich habe keine Zeit.",
+    "arabic": "ليس لدي وقت."
+  },
+  {
+    "id": 36,
+    "level": "B1",
+    "german": "Ich kann dir helfen.",
+    "arabic": "أستطيع مساعدتك."
+  },
+  {
+    "id": 37,
+    "level": "B1",
+    "german": "Ich muss heute lernen.",
+    "arabic": "يجب أن أدرس اليوم."
+  },
+  {
+    "id": 38,
+    "level": "B1",
+    "german": "Ich komme ein bisschen später.",
+    "arabic": "سآتي متأخرًا قليلًا."
+  },
+  {
+    "id": 39,
+    "level": "B1",
+    "german": "Ich bin gerade unterwegs.",
+    "arabic": "أنا في الطريق الآن."
+  },
+  {
+    "id": 40,
+    "level": "B1",
+    "german": "Ich bleibe heute länger.",
+    "arabic": "سأبقى مدة أطول اليوم."
+  },
+  {
+    "id": 41,
+    "level": "B1",
+    "german": "Ich habe viel zu tun.",
+    "arabic": "لدي الكثير لأفعله."
+  },
+  {
+    "id": 42,
+    "level": "B1",
+    "german": "Ich möchte Deutsch besser sprechen.",
+    "arabic": "أريد أن أتحدث الألمانية بشكل أفضل."
+  },
+  {
+    "id": 43,
+    "level": "B1",
+    "german": "Ich muss früh schlafen.",
+    "arabic": "يجب أن أنام مبكرًا."
+  },
+  {
+    "id": 44,
+    "level": "B1",
+    "german": "Ich habe heute frei.",
+    "arabic": "أنا في إجازة اليوم."
+  },
+  {
+    "id": 45,
+    "level": "B1",
+    "german": "Ich bin fast fertig.",
+    "arabic": "أنا على وشك الانتهاء."
+  },
+  {
+    "id": 46,
+    "level": "B1",
+    "german": "Ich denke darüber nach.",
+    "arabic": "أفكر في الأمر."
+  },
+  {
+    "id": 47,
+    "level": "B1",
+    "german": "Ich habe das schon gemacht.",
+    "arabic": "لقد فعلت ذلك بالفعل."
+  },
+  {
+    "id": 48,
+    "level": "B1",
+    "german": "Ich möchte etwas essen.",
+    "arabic": "أريد أن آكل شيئًا."
+  },
+  {
+    "id": 49,
+    "level": "B1",
+    "german": "Ich komme nicht klar.",
+    "arabic": "لا أتعامل مع الأمر جيدًا."
+  },
+  {
+    "id": 50,
+    "level": "B1",
+    "german": "Ich versuche es noch mal.",
+    "arabic": "سأحاول مرة أخرى."
+  },
+  {
+    "id": 51,
+    "level": "B1",
+    "german": "Ich habe das vergessen.",
+    "arabic": "نسيت ذلك."
+  },
+  {
+    "id": 52,
+    "level": "B1",
+    "german": "Ich melde mich später.",
+    "arabic": "سأتواصل لاحقًا."
+  },
+  {
+    "id": 53,
+    "level": "B1",
+    "german": "Ich muss gleich los.",
+    "arabic": "يجب أن أنطلق الآن."
+  },
+  {
+    "id": 54,
+    "level": "B1",
+    "german": "Ich bin damit einverstanden.",
+    "arabic": "أنا موافق على ذلك."
+  },
+  {
+    "id": 55,
+    "level": "B1",
+    "german": "Ich komme damit klar.",
+    "arabic": "أتعامل مع الأمر."
+  },
+  {
+    "id": 56,
+    "level": "B1",
+    "german": "Ich habe genug davon.",
+    "arabic": "لقد سئمت من ذلك."
+  },
+  {
+    "id": 57,
+    "level": "B1",
+    "german": "Ich nehme mir Zeit.",
+    "arabic": "آخذ وقتي."
+  },
+  {
+    "id": 58,
+    "level": "B1",
+    "german": "Ich lasse das heute.",
+    "arabic": "سأترك هذا اليوم."
+  },
+  {
+    "id": 59,
+    "level": "B1",
+    "german": "Ich schaue später nach.",
+    "arabic": "سأنظر في الأمر لاحقًا."
+  },
+  {
+    "id": 60,
+    "level": "B1",
+    "german": "Ich mache das morgen.",
+    "arabic": "سأفعل ذلك غدًا."
+  },
+  {
+    "id": 181,
+    "level": "B1",
+    "tag": "work",
+    "german": "Ich muss heute arbeiten.",
+    "arabic": "يجب أن أعمل اليوم."
+  },
+  {
+    "id": 182,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich möchte zu Hause bleiben.",
+    "arabic": "أريد أن أبقى في المنزل."
+  },
+  {
+    "id": 183,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich habe viel zu tun.",
+    "arabic": "لدي الكثير لأفعله."
+  },
+  {
+    "id": 184,
+    "level": "B1",
+    "tag": "travel",
+    "german": "Ich komme ein bisschen später.",
+    "arabic": "سآتي متأخرًا قليلًا."
+  },
+  {
+    "id": 185,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich stehe jeden Tag früh auf.",
+    "arabic": "أستيقظ مبكرًا كل يوم."
+  },
+  {
+    "id": 186,
+    "level": "B1",
+    "tag": "work",
+    "german": "Ich kann dir helfen.",
+    "arabic": "أستطيع مساعدتك."
+  },
+  {
+    "id": 187,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich melde mich später.",
+    "arabic": "سأتواصل لاحقًا."
+  },
+  {
+    "id": 188,
+    "level": "B1",
+    "tag": "travel",
+    "german": "Ich muss gleich los.",
+    "arabic": "يجب أن أنطلق الآن."
+  },
+  {
+    "id": 189,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich bin fast fertig.",
+    "arabic": "أنا على وشك الانتهاء."
+  },
+  {
+    "id": 190,
+    "level": "B1",
+    "tag": "daily",
+    "german": "Ich denke darüber nach.",
+    "arabic": "أفكر في الأمر."
+  }
 ]
