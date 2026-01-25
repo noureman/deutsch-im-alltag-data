@@ -2,72 +2,72 @@
   {
     "id": 1,
     "level": "A1",
-    "tag": "home",
-    "german": "Ich bin zu Hause.",
-    "arabic": "أنا في المنزل."
+    "tag": "family",
+    "german": "Der Vater spricht leise, damit das Baby schlafen kann.",
+    "arabic": "الأب يتحدث بهدوء لكي يتمكن الطفل من النوم."
   },
   {
     "id": 2,
     "level": "A1",
-    "tag": "home",
-    "german": "Ich gehe nach Hause.",
-    "arabic": "أنا أذهب إلى المنزل."
+    "tag": "school",
+    "german": "Die Lehrerin wiederholt den Satz, damit alle ihn verstehen.",
+    "arabic": "المعلمة تكرر الجملة لكي يفهمها الجميع."
   },
   {
     "id": 3,
     "level": "A1",
     "tag": "home",
-    "german": "Ich esse Brot.",
-    "arabic": "أنا آكل الخبز."
+    "german": "Ich mache das Licht an, damit ich besser sehen kann.",
+    "arabic": "أنا أشغل الضوء لكي أستطيع الرؤية بشكل أفضل."
   },
   {
     "id": 4,
     "level": "A1",
-    "tag": "home",
-    "german": "Ich trinke Wasser.",
-    "arabic": "أنا أشرب الماء."
+    "tag": "daily",
+    "german": "Wir gehen früh nach Hause, damit wir uns ausruhen können.",
+    "arabic": "نحن نذهب إلى البيت مبكرًا لكي نستريح."
   },
   {
     "id": 5,
     "level": "A1",
-    "tag": "home",
-    "german": "Ich bin müde.",
-    "arabic": "أنا متعب."
+    "tag": "work",
+    "german": "Der Mann schreibt alles auf, damit er nichts vergisst.",
+    "arabic": "الرجل يكتب كل شيء لكي لا ينسى شيئًا."
   },
   {
     "id": 6,
     "level": "A1",
-    "tag": "home",
-    "german": "Ich schlafe gut.",
-    "arabic": "أنام جيدًا."
+    "tag": "learning",
+    "german": "Ich höre Deutsch jeden Tag, damit ich es besser lerne.",
+    "arabic": "أنا أستمع إلى الألمانية كل يوم لكي أتعلمها بشكل أفضل."
   },
   {
     "id": 7,
     "level": "A1",
-    "tag": "home",
-    "german": "Ich habe Hunger.",
-    "arabic": "أنا جائع."
+    "tag": "family",
+    "german": "Die Mutter ruft laut, damit die Kinder sie hören.",
+    "arabic": "الأم تنادي بصوت عالٍ لكي يسمعها الأطفال."
   },
   {
     "id": 8,
     "level": "A1",
-    "tag": "home",
-    "german": "Ich habe Durst.",
-    "arabic": "أنا عطشان."
+    "tag": "travel",
+    "german": "Wir fragen nach dem Weg, damit wir uns nicht verirren.",
+    "arabic": "نحن نسأل عن الطريق لكي لا نضيع."
   },
   {
     "id": 9,
     "level": "A1",
     "tag": "home",
-    "german": "Ich bin allein.",
-    "arabic": "أنا وحدي."
+    "german": "Er öffnet das Fenster, damit frische Luft hereinkommt.",
+    "arabic": "هو يفتح النافذة لكي يدخل هواء نقي."
   },
   {
     "id": 10,
     "level": "A1",
-    "tag": "home",
-    "german": "Ich bin nicht allein.",
-    "arabic": "لست وحدي."
+    "tag": "daily",
+    "german": "Ich spreche langsam, damit du mich verstehst.",
+    "arabic": "أنا أتحدث ببطء لكي تفهمني."
   },
   {
     "id": 11,
@@ -1579,4 +1579,5 @@
     "german": "Ich denke darüber nach.",
     "arabic": "أفكر في الأمر."
   }
+
 ]
